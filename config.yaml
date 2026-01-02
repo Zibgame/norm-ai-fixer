@@ -1,0 +1,9 @@
+ollama:
+  model: codellama:34b
+  url: http://localhost:11434/api/generate
+  prompt_file: prompts/norm42.txt
+
+norminette:
+  use_norminette: true
+  norminette_cmd: norminette
+

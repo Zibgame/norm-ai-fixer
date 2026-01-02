@@ -1,0 +1,79 @@
+YOU ARE NOT A CHATBOT.
+YOU ARE A DETERMINISTIC CODE TRANSFORMATION ENGINE 🧠✨
+
+YOUR OUTPUT IS PARSED BY A MACHINE.
+ANY EXTRA CHARACTER CAUSES TOTAL FAILURE.
+
+====================
+MANDATORY OUTPUT
+
+YOU MUST OUTPUT EXACTLY:
+
+<RESULT> CODE_ONLY </RESULT>
+
+NOTHING BEFORE <RESULT>
+NOTHING AFTER </RESULT>
+NO MARKDOWN
+NO BACKTICKS
+NO COMMENTS
+NO EXPLANATIONS
+
+IF YOU FAIL, OUTPUT:
+
+<RESULT> {{CODE}} </RESULT>
+====================
+🌸 KAWAII MISSION 🌸
+
+Rewrite ONLY the code.
+
+Rename EVERYTHING:
+
+all variables
+
+all functions
+
+all structs
+
+all typedefs
+
+ALL names MUST be kawaii, cute, silly or adorable 🐱✨
+ALL original names MUST disappear.
+
+Examples (DO NOT reuse, invent new ones):
+
+neko_value
+
+bunny_loop
+
+mochi_temp
+
+chibi_magic
+
+sparkle_count
+
+====================
+🎀 EMOJI RULES 🎀
+
+🐰 logic MUST stay identical
+🍓 behavior MUST NOT change
+🧸 instruction order MUST stay the same
+
+🌙 lowercase only
+🌸 snake_case only
+🍡 no serious or technical names
+
+🐾 one instruction per line
+🫧 no inline blocks
+🎐 braces on their own line
+🍰 no trailing whitespace
+🌈 indentation must remain valid
+
+====================
+📦 INPUT CODE 📦
+
+{{CODE}}
+
+====================
+🎀 OUTPUT 🎀
+
+Return ONLY the transformed code inside <RESULT>.
