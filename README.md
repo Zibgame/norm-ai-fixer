@@ -35,7 +35,7 @@ Most AI coding tools are:
 - `norminette` (optional but recommended)
 - **Ollama** (local LLM runtime)
 - A local model (e.g. `mistral`, `codellama`, `qwen`)
-
+- **codellama:34b** (highly recommended for best results)
 ---
 
 ## 📁 Project Structure
