@@ -194,4 +194,4 @@ MIT
 
 ## 👤 Author
 
-Built by a 42 student as a practical exploration of **local AI + strict engin
+Zibgame
